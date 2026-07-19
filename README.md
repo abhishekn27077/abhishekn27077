@@ -1,14 +1,18 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Abhishek N
 
-### Full Stack Developer • Java Developer • AI & IoT Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Engineer;Building+Software+That+Solves+Real+Problems" />
 
-Building scalable applications, AI-powered solutions, and real-world software that creates impact.
+<p>
+<img src="https://komarev.com/ghpvc/?username=abhishekn27077&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/abhishekn27077?label=Followers&style=flat&color=blue"/>
+<img src="https://img.shields.io/github/stars/abhishekn27077?affiliations=OWNER&style=flat&color=yellow"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishekn27077/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/abhisheknmca24-ux)
+### 🚀 Full Stack Developer • Java Developer • AI Enthusiast
+
+Building scalable web applications, AI-powered solutions and modern backend systems.
 
 </div>
 
@@ -16,59 +20,18 @@ Building scalable applications, AI-powered solutions, and real-world software th
 
 # 💫 About Me
 
-I am a passionate Full Stack Developer with a strong interest in Java, Artificial Intelligence, Backend Development, and Cloud Technologies.
+💻 Passionate Software Engineer with a strong foundation in Java, Spring Boot, React, Node.js and Artificial Intelligence.
 
-I enjoy building intelligent applications that solve real-world problems, from AI-powered finance platforms to IoT automation systems. I continuously learn new technologies and strive to write clean, scalable, and maintainable code.
+I enjoy solving real-world problems by building scalable applications, intelligent automation systems and modern web platforms.
 
-- 🎓 MCA Graduate
-- 💻 Full Stack Web Developer
-- ☕ Java Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌐 REST API Developer
-- 🚀 Passionate about building impactful software
+🎯 Current Focus
 
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-- Java
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-
-- HTML5
-- CSS3
-- React.js
-- Tailwind CSS
-- Vite
-
-### Backend
-
-- Node.js
-- Express.js
-- Django
-- REST APIs
-
-### Database
-
-- MongoDB Atlas
-- MySQL
-- SQLite
-
-### Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Render
-- Vercel
-- Firebase
+- Java & Spring Boot
+- Full Stack Development
+- AI Agents
+- Machine Learning
+- Backend Engineering
+- Cloud Deployment
 
 ---
 
@@ -76,33 +39,37 @@ I enjoy building intelligent applications that solve real-world problems, from A
 
 ## 🚦 OmniRoute
 
-An intelligent AI routing gateway that unifies multiple AI providers through a single API.
+A production-ready AI Gateway that intelligently routes requests across multiple AI providers.
 
 ### Highlights
 
-- Multi-provider AI routing
-- Automatic failover
-- Load balancing
-- OpenAI-compatible APIs
-- Provider verification
-- Secure API gateway
+- Multi Provider Routing
+- Failover
+- Load Balancing
+- OpenAI Compatible APIs
+- Authentication
+- Rate Limiting
+- Provider Verification
+
+**Tech**
+
+Node.js • TypeScript • APIs • AI
 
 ---
 
 ## 💰 FinSight
 
-An AI-powered personal finance management platform.
+AI-powered Personal Finance Management System.
 
 ### Features
 
-- Expense tracking
-- Financial health prediction
-- Smart analytics
-- Budget recommendations
-- Bank statement analysis
-- Interactive dashboard
+- Expense Tracking
+- Financial Health Prediction
+- CSV & PDF Statement Analysis
+- Smart Recommendations
+- Interactive Dashboard
 
-**Tech Stack**
+**Stack**
 
 React • Node.js • MongoDB • Python • Machine Learning
 
@@ -110,89 +77,117 @@ React • Node.js • MongoDB • Python • Machine Learning
 
 ## 🤖 Smart Rover
 
-AI-based smart waste detection vehicle using ESP32-CAM.
+AI-based Smart Waste Detection Vehicle.
 
-### Features
+🏆 Science Exhibition Prize Winner
 
-- Object detection
-- Live camera monitoring
-- Telegram notifications
-- IoT automation
+Features
 
-🏆 Awarded in a science exhibition.
-
----
-
-## 🌱 Smart Aquaponics Monitoring System
-
-IoT-based smart farming solution.
-
-### Features
-
-- Real-time sensor monitoring
-- Water quality analysis
-- Temperature monitoring
-- Telegram alerts
+- ESP32-CAM
+- Object Detection
+- Telegram Alerts
+- IoT Automation
 
 ---
 
-## 😴 Driver Drowsiness Detection
+## 🌿 Smart Aquaponics Monitoring
 
-Computer Vision application that detects driver fatigue using AI.
+Smart IoT monitoring system for agriculture.
 
----
-
-## 🗳 Online Voting System
-
-Secure voting platform with authentication and database integration.
+- Water Quality
+- Live Sensors
+- Telegram Notifications
 
 ---
 
-# 📚 Currently Learning
+## 🧠 Driver Drowsiness Detection
 
-- Advanced Java
-- Spring Boot
-- Microservices
-- Docker
-- Kubernetes
-- System Design
-- AI Agents
-- Cloud Computing
+Computer Vision project for detecting driver fatigue using Machine Learning.
 
 ---
 
-# 🎯 Career Objective
+# 💻 Tech Stack
 
-To contribute as a Software Engineer by developing reliable, scalable, and user-focused applications while continuously expanding my knowledge in Full Stack Development, Artificial Intelligence, and Cloud Computing.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,react,nodejs,express,html,css,tailwind,mongodb,mysql,firebase,git,github,vscode,idea,docker,postman,vercel,render"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
-Replace **YOUR_USERNAME** with your GitHub username.
+<p align="center">
 
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishekn27077&show_icons=true&theme=tokyonight&count_private=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekn27077&layout=compact&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-````
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhishekn27077&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekn27077&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekn27077&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/abhishekn27077/
-* 💻 GitHub: https://github.com/abhisheknmca24-ux
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhishekn27077">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abhishek.n_mca24@theaims.ac.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/abhishekn27077">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 "Code with purpose. Learn continuously. Build solutions that make an impact."
 
-*"Code with purpose. Learn continuously. Build solutions that matter."*
+⭐ If you like my work, consider starring my repositories!
 
 </div>
-```
