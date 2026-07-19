@@ -134,10 +134,10 @@ Computer Vision project for detecting driver fatigue using Machine Learning.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekn27077&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekn27077&theme=radical&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
